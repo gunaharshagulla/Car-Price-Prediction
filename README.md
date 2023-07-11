@@ -23,7 +23,7 @@ To use the car price prediction model, follow the steps below:
 
 6. Run the prediction code to obtain the predicted car price.
 
-## Working of the Model
+## Functionality of the Model
 
 1. The code starts by importing the necessary libraries and dependencies, such as TensorFlow, pandas, scikit-learn, and matplotlib.
 
